@@ -1,0 +1,458 @@
+[
+	{
+		"a": "admin",
+		"can": "edit map"
+	},
+	{
+		"a": "admin",
+		"can": "update map"
+	},
+	{
+		"a": "admin",
+		"can": "edit map"
+	},
+	{
+		"a": "admin",
+		"can": "update map"
+	},
+	{
+		"a": "admin",
+		"can": "view overlay"
+	},
+	{
+		"a": "admin",
+		"can": "edit overlay"
+	},
+	{
+		"a": "admin",
+		"can": "replace overlay"
+	},
+	{
+		"a": "admin",
+		"can": "edit overlay transparency"
+	},
+	{
+		"a": "admin",
+		"can": "move overlay"
+	},
+	{
+		"a": "admin",
+		"can": "rotate overlay"
+	},
+	{
+		"a": "admin",
+		"can": "rescale overlay"
+	},
+	{
+		"a": "admin",
+		"can": "show overlay"
+	},
+	{
+		"a": "admin",
+		"can": "hide overlay"
+	},
+	{
+		"a": "admin",
+		"can": "change overlay z-order"
+	},
+	{
+		"a": "admin",
+		"can": "rename overlay"
+	},
+	{
+		"a": "admin",
+		"can": "delete overlay"
+	},
+	{
+		"a": "admin",
+		"can": "add overlay"
+	},
+	{
+		"a": "admin",
+		"can": "edit sensor"
+	},
+	{
+		"a": "admin",
+		"can": "add sensor"
+	},
+	{
+		"a": "admin",
+		"can": "delete sensor"
+	},
+	{
+		"a": "admin",
+		"can": "create sensor type"
+	},
+	{
+		"a": "admin",
+		"can": "edit sensor type"
+	},
+	{
+		"a": "admin",
+		"can": "upload sensor type icon"
+	},
+	{
+		"a": "admin",
+		"can": "delete sensor type"
+	},
+	{
+		"a": "admin",
+		"can": "change redundancy algorithm timeout"
+	},
+	{
+		"a": "admin",
+		"can": "switch controller"
+	},
+	{
+		"a": "admin",
+		"can": "disable redundancy algorithm"
+	},
+	{
+		"a": "admin",
+		"can": "enable redundancy algorithm"
+	},
+	{
+		"a": "admin",
+		"can": "edit sensor group"
+	},
+	{
+		"a": "admin",
+		"can": "delete sensor group"
+	},
+	{
+		"a": "admin",
+		"can": "create sensor group"
+	},
+	{
+		"a": "admin",
+		"can": "enable alarm override feature"
+	},
+	{
+		"a": "admin",
+		"can": "disable alarm override feature"
+	},
+	{
+		"a": "admin",
+		"can": "set settings"
+	},
+	{
+		"a": "admin",
+		"can": "view all users"
+	},
+	{
+		"a": "admin",
+		"can": "create user"
+	},
+	{
+		"a": "admin",
+		"can": "view user"
+	},
+	{
+		"a": "admin",
+		"can": "edit user"
+	},
+	{
+		"a": "admin",
+		"can": "reset password"
+	},
+	{
+		"a": "admin",
+		"can": "delete user"
+	},
+	{
+		"a": "admin",
+		"can": "view about-to-expire users"
+	},
+	{
+		"a": "admin",
+		"can": "view all reading types"
+	},
+	{
+		"a": "admin",
+		"can": "add reading type"
+	},
+	{
+		"a": "admin",
+		"can": "view reading type"
+	},
+	{
+		"a": "admin",
+		"can": "edit readings type"
+	},
+	{
+		"a": "admin",
+		"can": "delete reading type"
+	},
+	{
+		"a": "admin",
+		"can": "view user actions log"
+	},
+	{
+		"a": "admin",
+		"can": "export csv report"
+	},
+	{
+		"a": "admin",
+		"can": "view exceptions log"
+	},
+	{
+		"a": "engineer",
+		"can": "view sensor log"
+	},
+	{
+		"a": "engineer",
+		"can": "view all contacts"
+	},
+	{
+		"a": "engineer",
+		"can": "create contact"
+	},
+	{
+		"a": "engineer",
+		"can": "view contact"
+	},
+	{
+		"a": "engineer",
+		"can": "edit contact"
+	},
+	{
+		"a": "engineer",
+		"can": "delete contact"
+	},
+	{
+		"a": "engineer",
+		"can": "close software"
+	},
+	{
+		"a": "engineer",
+		"can": "initiate alarm test"
+	},
+	{
+		"a": "engineer",
+		"can": "stop alarm test"
+	},
+	{
+		"a": "engineer",
+		"can": "view all sensors"
+	},
+	{
+		"a": "engineer",
+		"can": "view sensor"
+	},
+	{
+		"a": "engineer",
+		"can": "enable sensor"
+	},
+	{
+		"a": "engineer",
+		"can": "disable sensor"
+	},
+	{
+		"a": "engineer",
+		"can": "view all sensor types"
+	},
+	{
+		"a": "engineer",
+		"can": "view sensor type details"
+	},
+	{
+		"a": "engineer",
+		"can": "view all controllers data"
+	},
+	{
+		"a": "engineer",
+		"can": "view controller log"
+	},
+	{
+		"a": "engineer",
+		"can": "view all sensor groups"
+	},
+	{
+		"a": "engineer",
+		"can": "view sensor group"
+	},
+	{
+		"a": "engineer",
+		"can": "view all assigned sms events"
+	},
+	{
+		"a": "engineer",
+		"can": "view assigned sms event"
+	},
+	{
+		"a": "engineer",
+		"can": "unassign sms event"
+	},
+	{
+		"a": "engineer",
+		"can": "edit assigned sms event"
+	},
+	{
+		"a": "engineer",
+		"can": "assign sms events"
+	},
+	{
+		"a": "engineer",
+		"can": "view all contact groups"
+	},
+	{
+		"a": "engineer",
+		"can": "create contact group"
+	},
+	{
+		"a": "engineer",
+		"can": "view contact group"
+	},
+	{
+		"a": "engineer",
+		"can": "edit contact group"
+	},
+	{
+		"a": "engineer",
+		"can": "delete contact group"
+	},
+	{
+		"a": "engineer",
+		"can": "view all scheduled email reports"
+	},
+	{
+		"a": "engineer",
+		"can": "schedule an email report"
+	},
+	{
+		"a": "engineer",
+		"can": "view scheduled email report"
+	},
+	{
+		"a": "engineer",
+		"can": "edit scheduled email report"
+	},
+	{
+		"a": "engineer",
+		"can": "delete scheduled email report"
+	},
+	{
+		"a": "engineer",
+		"can": "view all report templates"
+	},
+	{
+		"a": "engineer",
+		"can": "create template"
+	},
+	{
+		"a": "engineer",
+		"can": "generate report"
+	},
+	{
+		"a": "engineer",
+		"can": "export report"
+	},
+	{
+		"a": "engineer",
+		"can": "view report template"
+	},
+	{
+		"a": "engineer",
+		"can": "edit report template"
+	},
+	{
+		"a": "engineer",
+		"can": "delete report template"
+	},
+	{
+		"a": "engineer",
+		"can": "edit personal information"
+	},
+	{
+		"a": "engineer",
+		"can": "add sensor reading"
+	},
+	{
+		"a": "engineer",
+		"can": "view controller log"
+	},
+	{
+		"a": "engineer",
+		"can": "view all controllers data"
+	},
+	{
+		"a": "engineer",
+		"can": "add controller reading"
+	},
+	{
+		"a": "operator",
+		"can": "cancel override"
+	},
+	{
+		"a": "operator",
+		"can": "change override timeout"
+	},
+	{
+		"a": "operator",
+		"can": "override all alarms"
+	},
+	{
+		"a": "operator",
+		"can": "override alarm"
+	},
+	{
+		"a": "operator",
+		"can": "set background filter"
+	},
+	{
+		"a": "operator",
+		"can": "toggle map-view/satellite-view"
+	},
+	{
+		"a": "operator",
+		"can": "change ui language"
+	},
+	{
+		"a": "operator",
+		"can": "view all sensors map"
+	},
+	{
+		"a": "operator",
+		"can": "move map"
+	},
+	{
+		"a": "operator",
+		"can": "zoom-in map"
+	},
+	{
+		"a": "operator",
+		"can": "zoom-out map"
+	},
+	{
+		"a": "operator",
+		"can": "view sensor data"
+	},
+	{
+		"a": "operator",
+		"can": "view all sensors data"
+	},
+	{
+		"a": "operator",
+		"can": "view current sensors events"
+	},
+	{
+		"a": "operator",
+		"can": "view wind direction"
+	},
+	{
+		"a": "operator",
+		"can": "view all roles"
+	},
+	{
+		"a": "operator",
+		"can": "view all settings"
+	},
+	{
+		"a": "admin",
+		"can": "engineer"
+	},
+	{
+		"a": "engineer",
+		"can": "operator"
+	}
+]

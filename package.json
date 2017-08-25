@@ -1,0 +1,24 @@
+{
+  "name": "predix-mosemos",
+  "version": "1.0.0",
+  "description": "this file defines dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "pg": "^6.4.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.7.5",
+    "sequelize-cli": "^2.5.1"
+  },
+  "devDependencies": {},
+  "author": "mosemos",
+  "license": "ISC"
+}

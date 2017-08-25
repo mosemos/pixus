@@ -1,0 +1,131 @@
+{
+  "sensorsStatusEnums":
+  {
+    "active": "active" ,
+    "disabled": "disabled",
+    "offline":"offline",
+    "calibration":"calibration",
+    "communicationFault": "communicationFault",
+    "generalError": "generalError"
+  },
+  "sensorsReadingStatusEnums":
+  {
+    "high":"high",
+    "highhigh":"highhigh"
+  },
+  "thresholdsEnums":
+  {
+    "less": "<",
+    "lessEqual": "<=",
+    "notEqual": "!=",
+    "equal": "==",
+    "greater": ">",
+    "greaterEqual": ">="
+  },
+  "controllerRoleEnums":
+  {
+    "inControl":"inControl",
+    "onStandBy":"onStandBy"
+  },
+  "controllerStatusEnums":
+  {
+    "online":"online",
+    "offline":"offline"
+  },
+  "controllerCommunicationFaultEnums":
+  {
+    "yes": "yes",
+    "no": "no"
+  },
+  "templateElementTypesEnums":
+  {
+    "graph": "graph",
+    "table": "table"
+  },
+  "templateElementDeviceTypesEnums":
+  {
+    "sensor": "sensor",
+    "controller": "controller"
+  },
+  "templateElementDataTypesEnums":
+  {
+    "status": "status",
+    "reading": "reading"
+  },
+  "templateElementStatusOptionsEnums": {
+    "onlineOffline": "onlineOffline",
+    "allStatuses": "allStatuses"
+  },
+  "userStatusEnums":
+  {
+    "active": "active",
+    "expired": "expired"
+  },
+  "actionTypesEnums":
+  {
+    "create": "create",
+    "update": "edit",
+    "delete": "delete",
+    "view": "view",
+    "login": "login",
+    "logout": "logout"
+  },
+  "tableNamesEnums":{
+    "readingTypes": "ReadingTypes",
+    "thresholds": "Thresholds",
+    "sensorTypes": "SensorTypes",
+    "readingTypesForSensorTypes": "ReadingTypesForSensorTypes",
+    "sensors": "Sensors",
+    "sensorReadings": "SensorReadings",
+    "controllers": "Controllers",
+    "controllersStatus": "ControllersStatus",
+    "controllerReadings": "ControllerReadings",
+    "reportTemplates": "ReportTemplates",
+    "templateElements": "TemplateElements",
+    "contacts": "Contacts",
+    "sensorGroups": "SensorGroups",
+    "sensorGroupMembers": "SensorGroupMembers",
+    "contactGroups": "ContactGroups",
+    "contactGroupMembers": "ContactGroupMembers",
+    "overlays": "Overlays",
+    "settings": "Settings",
+    "users": "Users",
+    "actions": "Actions",
+    "loginLogs": "LoginLogs",
+    "ControllerEventAssigned": "ControllerEventAssigned",
+    "ScheduledEmailReports": "ScheduledEmailReports",
+    "SensorEventAssigned": "SensorEventAssigned"
+  },
+  "loginLogsStatusEnums":
+  {
+    "success": "success",
+    "failure": "failure",
+    "expired": "expired"
+  },
+  "sensorEventAssignedTypesEnums":
+  {
+    "highhigh": "highhigh",
+    "high": "high",
+    "offline": "offline",
+    "calibration": "calibration"
+  },
+  "readingTypesEnums":
+  {
+    "integer":"INTEGER",
+    "float":"FLOAT",
+    "string":"STRING"
+  },
+  "settingsEnums":
+  {
+    "redundancyStatus": "redundancyStatus",
+    "redundancyTimeout": "redundancyTimeout",
+    "overrideAlarmFeature": "overrideAlarmFeature",
+    "internet": "internet",
+    "fakeAlarm": "fakeAlarm"
+  },
+  "scheduledEmailReportsPeriodicTimeUnitEnums":
+  {
+    "day": "day",
+    "month": "month"
+  }
+}

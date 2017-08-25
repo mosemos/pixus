@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "u9cvp9oscehm0fea",
+    "password": "q95m25oaft8xonrwhw32h6voj",
+    "database": "postgres",
+    "host": "db-638acfdd-d1c4-413d-a9f3-52df7a8586a2.c7uxaqxgfov3.us-west-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "u9cvp9oscehm0fea",
+    "password": "q95m25oaft8xonrwhw32h6voj",
+    "database": "postgres",
+    "host": "db-638acfdd-d1c4-413d-a9f3-52df7a8586a2.c7uxaqxgfov3.us-west-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "u9cvp9oscehm0fea",
+    "password": "q95m25oaft8xonrwhw32h6voj",
+    "database": "postgres",
+    "host": "db-638acfdd-d1c4-413d-a9f3-52df7a8586a2.c7uxaqxgfov3.us-west-2.rds.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "databaseUrl": "postgres://u9cvp9oscehm0fea:q95m25oaft8xonrwhw32h6voj@db-638acfdd-d1c4-413d-a9f3-52df7a8586a2.c7uxaqxgfov3.us-west-2.rds.amazonaws.com:5432/postgres",
+  "weatherAPIKey": "6d69a7df025d230b3e93f555232ed19b",
+  "weatherURL": "api.openweathermap.org/data/2.5/weather",
+  "emailService": "gmail",
+  "serverEmail": "",
+  "serverEmailPassword": ""
+}
